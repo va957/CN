@@ -8,4 +8,3 @@ Multi group Chat Application using python sockets and Tkinter GUI
 # Functionalities
 * Create room / Join room using Room Id
 * Send messages within a room
-* Send file within a room
